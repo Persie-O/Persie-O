@@ -1,46 +1,159 @@
-## Full stack Web Developer with specialization in Backend Development
-![gitartwork](gitartwork.svg)
-### Hi there 👋 I am Pascal O. Oduor.
-<br>
+<!-- ========================= -->
+<!--  HERO BANNER SECTION     -->
+<!-- ========================= -->
 
-
-
-### About Me
-- I am just another Astrophysicist person who fell for coding. 🙃
-
-
-
-### I have experience with:
-
-<p><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="64" height="64" alt="python logo"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="64" height="64" alt="storybook logo"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/postgresql/postgresql.png" class="rounded-1 mr-3" width="64" height="64" alt="aws"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" class="rounded-1 mr-3" width="64" height="64" alt="flask"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" class="rounded-1 mr-3" width="64" height="64" alt="git"> &nbsp <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" class="rounded-1 mr-3" width="64" height="64" alt="git"></p> 
-
-
-### 🔭 I’m currently working on...
-Backend Development.
-
-
-### 💬 Ask me about ...
-The backholes and space travel
-
-### 📫 How to reach me ...
-* 📧 : persiewailer697@gmail.com
-*  <img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/> : [linkedin.com/in/pascal20239](https://www.linkedin.com/in/pascal20239/)
-
-
-<br>
-
-### ⚡ Stats ⚡
-</br>
-
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&count_private=true&theme=radical" width="350"></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff" />
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persie-O&langs_count=10&layout=compact&theme=radical" width="350"></a>
+<h1 align="center">🚀 Developer Portfolio</h1>
+
+<p align="center">
+  Building scalable systems, intelligent applications, and impactful solutions.
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://streak-stats.demolab.com/?user=Persie-O&theme=radical" width="350"></a>
+---
+
+<!-- ========================= -->
+<!--  ABOUT SECTION           -->
+<!-- ========================= -->
+
+## 👨‍💻 About Me
+
+- 🌍 Full-Stack Software Engineer  
+- 🧠 AI & Machine Learning Enthusiast  
+- 🛰️ Astrophysics & Space Science Explorer  
+- 🏥 Healthcare Technology Innovator  
+- ⚙️ Passionate about scalable backend systems & cloud architecture  
+
+---
+
+<!-- ========================= -->
+<!--  TECH STACK              -->
+<!-- ========================= -->
+
+## 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,react,js,ts,nodejs,aws,docker,linux,git,postgres,mongodb,tensorflow,pytorch" />
+
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  PROJECTS                -->
+<!-- ========================= -->
+
+## 🚧 Featured Projects
+
+### 🏥 e-Doc Healthcare Platform
+AI-powered digital pharmacy and healthcare ecosystem.
+- Medication marketplace
+- AI health assistant
+- GPS pharmacy locator
+- Secure patient records
+
+### 🧬 M-TREAT Healthcare System
+Telemedicine and healthcare infrastructure platform focused on Africa.
+
+### 🛰️ CosmoAI Lab (Research Initiative)
+Exploring AI applications in astrophysics and computational modeling.
+
+---
+
+<!-- ========================= -->
+<!--  STATS                   -->
+<!-- ========================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  FEATURED COLLABORATOR   -->
+<!-- ========================= -->
+
+## 🤝 Featured Collaborator
+
+### 🚀 Pascal Oduor — AI Software Engineer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Pascal%20Oduor-0f2027?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
+
+**Professional Summary**  
+AI Software Engineer with experience in backend systems, distributed architectures, and AI/ML development. Skilled in Python, Django, AWS, and modern machine learning frameworks, with a strong foundation in scalable system design and healthcare technology.
+
+---
+
+### 🧠 Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,react,aws,tensorflow,docker,git,postgres" />
+</p>
+
+---
+
+### 💼 Experience
+
+**🏥 M-TREAT Healthcare Platform**  
+- Backend system development (Django, PostgreSQL)  
+- API design & integration for healthcare services  
+- Payment systems integration (M-Pesa)
+
+**🌐 Azur.org**  
+- Software engineering contributions  
+- Cloud-based application development  
+- System optimization & deployment
+
+**🎓 ALX Africa**  
+- Full-Stack Software Engineering Program  
+- System design, DevOps, and backend architecture training  
+
+---
+
+### 🎓 Education
+
+- 🎓 University of Nairobi — Astrophysics & Space Science  
+- 🎓 ALX Africa — Software Engineering Certification  
+
+---
+
+### 📫 Contact
+
+- 📧 Email: persiewailer697@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
+
+---
+
+<!-- ========================= -->
+<!--  CONNECT                -->
+<!-- ========================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social" />
+  </a>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  FOOTER                 -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
