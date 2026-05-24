@@ -49,45 +49,6 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
 ---
 
 <!-- ========================= -->
-<!--  INTERACTIVE SNAPSHOT     -->
-<!-- ========================= -->
-
-## ✨ Snapshot
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### What I build
-- Intelligent systems
-- Healthcare platforms
-- AI-assisted workflows
-- Scalable APIs
-- Research-driven products
-
-### What I value
-- Clarity
-- Reliability
-- Security
-- Impact
-- Continuous learning
-
-    </td>
-    <td width="50%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persie-O&layout=compact&theme=tokyonight&hide_border=true" />
-
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ========================= -->
 <!--  TECH STACK               -->
 <!-- ========================= -->
 
