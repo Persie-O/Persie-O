@@ -3,15 +3,15 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Persie-O%20|%20Eng.%20Pascal%20Oduor&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Persie-O%20|%20Eng.%20Pascal%20Oduor&fontSize=28&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>AI Software Engineer • Astrophysics Researcher • Full-Stack Developer • Healthcare Innovator</b>
+  <b>AI Software Engineer • Astrophysicist • Full-Stack Developer • Healthcare Tech Innovator</b>
 </p>
 
 <p align="center">
-  Building intelligent systems at the intersection of Space, AI, and Healthcare 🚀
+  Building intelligent systems at the intersection of <b>Space, AI, and Healthcare</b>.
 </p>
 
 ---
@@ -20,15 +20,15 @@
 <!--  ABOUT ME                -->
 <!-- ========================= -->
 
-## 🧠 About Me
+## 🚀 About Me
 
-I am **Pascal Oduor (@Persie-O)**, an AI-driven software engineer and astrophysics student passionate about building systems that merge intelligence, computation, and real-world impact.
+I am an AI-focused Software Engineer and Astrophysics & Space Science student passionate about building intelligent, scalable systems that solve real-world problems in healthcare, data systems, and scientific computing.
 
-- 🛰️ Astrophysics & Space Science (University of Nairobi)
-- 🧠 AI & Machine Learning Engineering
-- 🏥 Healthcare technology innovation (e-Doc, M-TREAT)
-- ⚙️ Distributed systems & scalable backend architecture
-- 🌍 Building solutions for Africa’s digital future
+- 🧠 AI & Machine Learning Developer  
+- 🛰️ Astrophysics & Space Science Researcher  
+- 🏥 Healthcare Technology Innovator  
+- ⚙️ Full-Stack Software Engineer  
+- 🌍 Building impactful systems for Africa and beyond  
 
 ---
 
@@ -36,25 +36,25 @@ I am **Pascal Oduor (@Persie-O)**, an AI-driven software engineer and astrophysi
 <!--  TECH STACK              -->
 <!-- ========================= -->
 
-## ⚙️ Technical Stack
+## 🧰 Technical Stack
 
-### 🧑‍💻 Languages
-`Python` • `JavaScript` • `TypeScript` • `SQL` • `Rust` • `C`
+### 💻 Languages
+Python • JavaScript • TypeScript • SQL • Rust • C  
 
-### 🔧 Backend
-`Django` • `Flask` • `Node.js` • `REST APIs`
+### ⚙️ Backend Development
+Django • Flask • Node.js • REST APIs  
 
-### 🎨 Frontend
-`React` • `React Native` • `Redux`
+### 🎨 Frontend Development
+React • React Native • Redux  
 
-### 🤖 AI / ML
-`TensorFlow` • `Keras` • `scikit-learn` • `Machine Learning`
+### 🤖 AI / Machine Learning
+TensorFlow • Keras • scikit-learn • Machine Learning  
 
 ### 🗄️ Databases
-`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
+PostgreSQL • MySQL • MongoDB • Redis  
 
 ### ☁️ Cloud & DevOps
-`AWS` • `Docker` • `GitHub Actions` • `CI/CD` • `Linux` • `Git`
+AWS • Docker • GitHub Actions • CI/CD • Linux • Git  
 
 ---
 
@@ -62,71 +62,64 @@ I am **Pascal Oduor (@Persie-O)**, an AI-driven software engineer and astrophysi
 <!--  FEATURED PROJECTS       -->
 <!-- ========================= -->
 
-## 🚀 Featured Projects
+## 🚧 Featured Projects
 
 ### 🏥 e-Doc Healthcare Platform
-AI-powered healthcare ecosystem:
-- Smart medication marketplace
+AI-powered digital pharmacy ecosystem:
+- Smart medication management
 - AI health assistant
-- Pharmacy GPS locator
-- Digital patient records
+- GPS pharmacy locator
+- Secure health records system
 
 ### 🧬 M-TREAT System
-Telemedicine infrastructure for Africa:
-- Scalable backend architecture
-- Payment integration (M-Pesa)
-- Remote healthcare access
+Telemedicine infrastructure focused on scalable healthcare delivery in Africa.
 
-### 🛰️ CosmoAI Lab
-Research initiative exploring:
-- AI in astrophysics
-- Simulation systems
-- Scientific computing models
+### 🛰️ CosmoAI Lab (Research Initiative)
+AI + astrophysics research exploring:
+- Computational space modeling  
+- Scientific AI simulations  
+- Data-driven astrophysics systems  
 
 ---
 
 <!-- ========================= -->
-<!--  FEATURED COLLABORATOR   -->
+<!--  COLLABORATOR SECTION    -->
 <!-- ========================= -->
 
-## 🤝 Featured Collaborator
+## 🤝 Featured Talent / Collaborator
 
-### 🚀 Eng. Pascal Oduor — AI Software Engineer
+### 🚀 Pascal Oduor — AI Software Engineer
 
-> “Engineering intelligent systems that bridge healthcare, AI, and space science.”
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Pascal%20Oduor-0f2027?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
-**Core Identity:**
-- AI Software Engineer
-- Astrophysics & Space Science Researcher
-- Full-Stack Developer
-- Healthcare Technology Innovator
+**Professional Summary**  
+AI Software Engineer with strong experience in backend systems, distributed architectures, and AI/ML development. Skilled in building scalable cloud-native applications using Python, Django, AWS, and modern machine learning frameworks.
 
 ---
 
-### 🧠 Technical Expertise
+### 🧠 Technical Skills
 
-- Backend systems & distributed architecture
-- AI/ML model development
-- Cloud-native applications (AWS)
-- Healthcare system engineering
-- Scalable API design
+Python • Django • Flask • React • AWS • TensorFlow • Docker • PostgreSQL • REST APIs
 
 ---
 
 ### 💼 Experience
 
-**🏥 M-TREAT Healthcare Platform**
-- Backend engineering (Django + PostgreSQL)
-- API design for healthcare workflows
-- M-Pesa payment integration systems
+**🏥 M-TREAT Healthcare Platform**  
+- Backend architecture design (Django + PostgreSQL)  
+- Payment integration (M-Pesa APIs)  
+- Healthcare system scalability engineering  
 
-**🌐 Azur.org**
-- Cloud-based application development
-- System optimization & deployment pipelines
+**🌐 Azur.org**  
+- Cloud application development  
+- Backend service optimization  
+- API engineering  
 
-**🎓 ALX Africa**
-- Full-Stack Software Engineering Program
-- DevOps, system design, backend engineering
+**🎓 ALX Africa**  
+- Full-Stack Software Engineering Training  
+- System design, DevOps, and backend development  
 
 ---
 
@@ -139,16 +132,16 @@ Research initiative exploring:
 
 ### 📫 Contact
 
-- 📧 Email: persiewailer697@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
+📧 Email: persiewailer697@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
 
 ---
 
 <!-- ========================= -->
-<!--  GITHUB ANALYTICS        -->
+<!--  GITHUB PERFORMANCE      -->
 <!-- ========================= -->
 
-## 📊 Performance & GitHub Analytics
+## 📊 GitHub Performance & Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&theme=tokyonight" />
@@ -165,21 +158,51 @@ Research initiative exploring:
 ---
 
 <!-- ========================= -->
-<!--  REPOSITORIES CTA        -->
+<!--  ACTIVITY GRAPH          -->
 <!-- ========================= -->
 
-## 👇 Here are my popular repositories
-
-⬇️⬇️⬇️ Explore pinned projects below ⬇️⬇️⬇️
+## 📈 Contribution Activity
 
 <p align="center">
-  <b>🚀 Scroll down to discover my flagship systems in AI, healthcare, and space science.</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Persie-O&theme=react-dark" />
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--  FOOTER                  -->
+<!--  REPOSITORIES            -->
+<!-- ========================= -->
+
+## 📌 Here are my popular repositories 👇
+
+<p align="center">
+  👉 Check pinned repositories below for:
+</p>
+
+- 🧠 AI & Machine Learning Systems  
+- 🏥 Healthcare Platforms  
+- 🛰️ Astrophysics Research Tools  
+- ⚙️ Full-Stack Applications  
+- ☁️ Cloud & DevOps Projects  
+
+---
+
+<!-- ========================= -->
+<!--  CONNECT                 -->
+<!-- ========================= -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Persie-O">
+    <img src="https://img.shields.io/github/followers/Persie-O?label=Follow&style=social" />
+  </a>
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  FOOTER                 -->
 <!-- ========================= -->
 
 <p align="center">
