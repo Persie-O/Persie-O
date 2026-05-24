@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Eng.%20Pascal%20Oduor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Eng. Pascal Oduor</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Astrophysicist;Full-Stack+Software+Engineer;AI+Developer;Healthcare+Enthusiast&center=true&width=500&height=50" />
