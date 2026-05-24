@@ -224,12 +224,11 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
 ## ✍️ Latest Musings
 
 <!-- BLOG-POST-LIST:START -->
-- [Why astrophysics makes me a better engineer](https://example.com) *(placeholder – add your own)*
+- [Why astrophysics makes me a better engineer](https://example.com)
 - [Building FHIR-compliant APIs in Django](https://example.com)
 - [ML in healthcare: Lessons from M-TREAT](https://example.com)
 <!-- BLOG-POST-LIST:END -->
 
-> *You can automate this section with a GitHub action that pulls from Dev.to or Medium.*
 
 ---
 
@@ -243,13 +242,13 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
   <a href="mailto:persiewailer697@gmail.com">
     <img src="https://img.shields.io/badge/Email-Open%20Inbox-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/pascal-oduor/">
+  <a href="https://www.linkedin.com/in/pascal2029/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Persie-O">
     <img src="https://img.shields.io/badge/GitHub-Follow%20the%20journey-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://twitter.com/Persie-O">
     <img src="https://img.shields.io/badge/Twitter-@PascalOduor-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
