@@ -1,215 +1,227 @@
 <!-- ========================= -->
-<!--        HERO SECTION       -->
+<!--  HERO SECTION            -->
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=CosmoAI%20Lab&fontSize=40&fontColor=ffffff" />
-</p>
-
-<h2 align="center">🛰️ Space • AI • Healthcare • Systems Engineering</h2>
-
-<p align="center">
-  Building intelligent systems at the intersection of astrophysics, artificial intelligence, and healthcare innovation.
-</p>
-
----
-
-<!-- ========================= -->
-<!--       PROFILE STATS       -->
-<!-- ========================= -->
-
-## 📊 GitHub Performance Dashboard
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=220&section=header&text=Persie-O%20|%20AI%20Research%20%26%20Systems%20Engineer&fontSize=28&fontColor=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <b>Astrophysics • AI Engineering • Full-Stack Systems • Healthcare Innovation</b>
+</p>
+
+<p align="center">
+  Building intelligent systems at the intersection of space, data, and human health.
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--     ACTIVITY GRAPH        -->
+<!--  PROFILE METRICS         -->
 <!-- ========================= -->
 
-## 📈 Contribution & Activity Graph
+## 📊 Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Persie-O&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persie-O&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--       TROPHIES            -->
+<!--  ABOUT                  -->
 <!-- ========================= -->
 
-## 🏆 Achievements
+## 🧠 System Overview
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+- 🚀 Full-Stack Software Engineer (Distributed Systems Focus)
+- 🧬 AI/ML Developer (Healthcare + Scientific Computing)
+- 🛰️ Astrophysics & Space Science Researcher
+- 🏥 Healthcare Technology Builder (e-Doc / M-TREAT ecosystem)
+- ⚙️ Systems Design & Cloud Infrastructure Enthusiast
+
+---
+
+<!-- ========================= -->
+<!--  TECH STACK              -->
+<!-- ========================= -->
+
+## 🧰 Technical Stack
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,rust,c" />
 </p>
 
----
-
-<!-- ========================= -->
-<!--        ABOUT ME           -->
-<!-- ========================= -->
-
-## 👨‍🚀 About CosmoAI Lab
-
-- 🧠 AI Software Engineer in training  
-- 🛰️ Astrophysics & Space Science student (University of Nairobi)  
-- 🏥 Healthcare system architect (e-Doc, M-TREAT)  
-- ⚙️ Backend & distributed systems engineer  
-- 🤖 Building AI systems for real-world impact  
-
----
-
-<!-- ========================= -->
-<!--        TECH STACK         -->
-<!-- ========================= -->
-
-## 🧰 Core Systems Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,react,ts,js,nodejs,aws,docker,kubernetes,postgres,mongodb,tensorflow,pytorch,git,linux" />
+### ⚙️ Backend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi" />
 </p>
 
----
-
-<!-- ========================= -->
-<!--       SYSTEM MAP          -->
-<!-- ========================= -->
-
-## 🧬 Research & Engineering Domains
-
-| Domain | Focus |
-|--------|------|
-| 🛰️ Astrophysics AI | Simulation, cosmic modeling |
-| 🧠 Machine Learning | Prediction systems, NLP |
-| 🏥 Healthcare AI | e-Doc, M-TREAT ecosystem |
-| ⚙️ Distributed Systems | Scalable backend architecture |
-| ☁️ Cloud Engineering | AWS, deployment automation |
+- RESTful API Architecture
+- Microservices Design
+- Authentication & Security Systems
 
 ---
 
+### 🎨 Frontend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,reactnative" />
+</p>
+
+- Responsive UI Systems
+- Mobile-first Applications
+- State Management Architectures
+
+---
+
+### 🧠 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- TensorFlow & Keras Deep Learning
+- scikit-learn Classical ML
+- Predictive Healthcare Models
+- Data-driven Systems Design
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+- Relational & NoSQL Systems
+- High-performance caching (Redis)
+- Scalable database architecture
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" />
+</p>
+
+- CI/CD Automation Pipelines
+- Cloud Infrastructure (AWS)
+- Containerization (Docker)
+- Linux-based Systems Engineering
+
+---
+
 <!-- ========================= -->
-<!--       FEATURED WORK       -->
+<!--  RESEARCH PROJECTS       -->
 <!-- ========================= -->
 
-## 🚧 Featured Systems
+## 🚧 Active Systems & Research
 
-### 🏥 e-Doc Healthcare Platform
-AI-powered healthcare ecosystem:
-- Smart pharmacy system  
-- AI medical assistant  
-- GPS-based drug locator  
-- Digital patient records  
+### 🏥 e-Doc Healthcare AI Platform
+- Intelligent pharmacy ecosystem
+- AI-driven medical recommendations
+- Location-based healthcare access
+- Payment integration (M-Pesa systems)
 
 ### 🧬 M-TREAT System
-- Telemedicine infrastructure  
-- Payment integration (M-Pesa)  
-- Cloud-based patient management  
+- Digital healthcare infrastructure for Africa
+- Telemedicine and patient management
+- Scalable backend architecture
 
-### 🛰️ CosmoAI Lab
-- AI + astrophysics research simulations  
-- Data-driven space modeling  
-- Experimental ML systems  
+### 🛰️ CosmoAI Lab (Research Direction)
+- AI for astrophysics simulations
+- Data modeling for space systems
+- Scientific machine learning
 
 ---
 
 <!-- ========================= -->
-<!--     FEATURED COLLAB       -->
+<!--  ACTIVITY METRICS        -->
+<!-- ========================= -->
+
+## 📈 Engineering Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Persie-O&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  FEATURED COLLABORATOR   -->
 <!-- ========================= -->
 
 ## 🤝 Featured Collaborator
 
 ### 🚀 Pascal Oduor — AI Software Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Collaborator-Pascal%20Oduor-0f2027?style=for-the-badge&logo=ai&logoColor=white"/>
-</p>
-
-### 🧠 Profile Summary
-AI Software Engineer specializing in backend systems, distributed architectures, and machine learning solutions. Strong focus on scalable healthcare and AI-driven systems.
+**System Role:** External AI Engineering Contributor
 
 ---
 
-### 🧰 Technical Skills
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,react,aws,tensorflow,docker,postgres,git" />
+**🧠 Profile Summary**  
+AI Software Engineer specializing in backend systems, distributed architectures, and applied machine learning. Experienced in Python, Django, AWS, and scalable healthcare systems design.
+
+---
+
+### ⚙️ Technical Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,react,aws,tensorflow,docker,git,postgres" />
 </p>
 
 ---
 
-### 💼 Experience Timeline
+### 💼 Engineering Experience
 
-- 🏥 **M-TREAT Healthcare Platform**
-  - Backend API development
-  - Payment integration (M-Pesa)
-  - Healthcare system architecture  
+- 🏥 **M-TREAT Healthcare Systems**  
+  Backend architecture, API development, M-Pesa integration
 
-- 🌐 **Azur.org**
-  - Cloud application engineering
-  - Performance optimization
-  - System deployment pipelines  
+- 🌐 **Azur.org Systems**  
+  Cloud-based application engineering & optimization
 
-- 🎓 **ALX Africa**
-  - Full-stack engineering training
-  - DevOps & system design
-  - Production-grade backend systems  
+- 🎓 **ALX Africa Engineering Program**  
+  Full-stack systems engineering, DevOps, backend design
 
 ---
 
 ### 🎓 Education
 
 - 🎓 University of Nairobi — Astrophysics & Space Science  
-- 🎓 ALX Africa — Software Engineering  
+- 🎓 ALX Africa — Software Engineering (Systems Track)
 
 ---
 
-### 📫 Contact
+### 📫 Contact Node
 
-- 📧 Email: **persiewailer697@gmail.com**  
+- 📧 Email: persiewailer697@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
 
 ---
 
 <!-- ========================= -->
-<!--       LIVE METRICS        -->
+<!--  CONNECT                 -->
 <!-- ========================= -->
 
-## 📡 Live Dev Metrics
+## 🌐 System Connectivity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/Persie-O?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Persie-O&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--        CONNECT            -->
-<!-- ========================= -->
-
-## 🌐 Connect With CosmoAI
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
-</p>
-
----
-
-<!-- ========================= -->
-<!--        FOOTER             -->
+<!--  FOOTER                 -->
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:020024&height=120&section=footer"/>
 </p>
