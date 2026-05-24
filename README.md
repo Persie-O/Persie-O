@@ -3,18 +3,27 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Eng. Pascal Oduor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Eng.%20Pascal%20Oduor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<h1 align="center">Eng. Pascal Oduor</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Astrophysicist;Full-Stack+Software+Engineer;AI+Developer;Healthcare+Enthusiast&center=true&width=500&height=50" />
 </p>
 
 <p align="center">
-  <a href="mailto:persiewailer697@gmail.com"><img src="https://img.shields.io/badge/Email-persiewailer697%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pascal20239/"><img src="https://img.shields.io/badge/LinkedIn-Pascal%20Oduor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Persie-O"><img src="https://img.shields.io/badge/GitHub-%40Persie--O-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:persiewailer697@gmail.com">
+    <img src="https://img.shields.io/badge/Email-persiewailer697%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/pascal20239/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pascal%20Oduor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Persie-O">
+    <img src="https://img.shields.io/badge/GitHub-%40Persie--O-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
