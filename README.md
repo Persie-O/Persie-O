@@ -3,15 +3,15 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Persie-O%20|%20Eng.%20Pascal%20Oduor&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Eng.%20Pascal%20Oduor%20(@Persie-O)&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <b>AI Software Engineer • Astrophysicist • Full-Stack Developer • Healthcare Tech Innovator</b>
+  <b>AI Software Engineer • Astrophysics Enthusiast • Full-Stack Developer • Healthcare Innovator</b>
 </p>
 
 <p align="center">
-  Building intelligent systems at the intersection of <b>Space, AI, and Healthcare</b>.
+  Building intelligent systems at the intersection of <b>Space, AI, and Healthcare</b> 🌌🧠🏥
 </p>
 
 ---
@@ -20,128 +20,163 @@
 <!--  ABOUT ME                -->
 <!-- ========================= -->
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am an AI-focused Software Engineer and Astrophysics & Space Science student passionate about building intelligent, scalable systems that solve real-world problems in healthcare, data systems, and scientific computing.
-
-- 🧠 AI & Machine Learning Developer  
-- 🛰️ Astrophysics & Space Science Researcher  
-- 🏥 Healthcare Technology Innovator  
-- ⚙️ Full-Stack Software Engineer  
-- 🌍 Building impactful systems for Africa and beyond  
+- 🚀 AI Software Engineer focused on intelligent systems
+- 🛰️ Astrophysics & Space Science background
+- 🏥 Healthcare technology builder (M-TREAT / e-Doc ecosystem)
+- 🌍 Full-stack developer with production-grade experience
+- 🧠 Passionate about ML systems, distributed architecture & research computing
+- 🔬 Founder of **CosmoAI Lab (Research Initiative)**
 
 ---
 
 <!-- ========================= -->
-<!--  TECH STACK              -->
+<!--  TECHNICAL STACK         -->
 <!-- ========================= -->
 
 ## 🧰 Technical Stack
 
-### 💻 Languages
-Python • JavaScript • TypeScript • SQL • Rust • C  
+### 🧠 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,rust,c" />
+</p>
 
-### ⚙️ Backend Development
-Django • Flask • Node.js • REST APIs  
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
+</p>
 
-### 🎨 Frontend Development
-React • React Native • Redux  
+- RESTful API Design  
+- Microservices Architecture  
+- Scalable Backend Systems  
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,react" />
+</p>
+
+- React / React Native Applications  
+- State Management (Redux)  
+- Responsive UI Systems  
 
 ### 🤖 AI / Machine Learning
-TensorFlow • Keras • scikit-learn • Machine Learning  
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- TensorFlow  
+- Keras  
+- Scikit-learn  
+- Machine Learning Pipelines  
+- Model Deployment  
 
 ### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB • Redis  
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+- PostgreSQL (Relational Systems)  
+- MySQL  
+- MongoDB (NoSQL Systems)  
+- Redis (Caching & Performance Layer)  
 
 ### ☁️ Cloud & DevOps
-AWS • Docker • GitHub Actions • CI/CD • Linux • Git  
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" />
+</p>
+
+- AWS Cloud Infrastructure  
+- Docker Containerization  
+- CI/CD Pipelines (GitHub Actions)  
+- Linux Server Environments  
+- Git Version Control  
 
 ---
 
 <!-- ========================= -->
-<!--  FEATURED PROJECTS       -->
+<!--  PROJECTS                -->
 <!-- ========================= -->
 
 ## 🚧 Featured Projects
 
 ### 🏥 e-Doc Healthcare Platform
-AI-powered digital pharmacy ecosystem:
-- Smart medication management
+AI-powered digital healthcare ecosystem:
+- Smart pharmacy system
 - AI health assistant
-- GPS pharmacy locator
-- Secure health records system
+- GPS-based pharmacy locator
+- Secure patient records & APIs
 
 ### 🧬 M-TREAT System
-Telemedicine infrastructure focused on scalable healthcare delivery in Africa.
+Healthcare infrastructure platform designed for scalable medical access in Africa.
 
-### 🛰️ CosmoAI Lab (Research Initiative)
-AI + astrophysics research exploring:
-- Computational space modeling  
-- Scientific AI simulations  
-- Data-driven astrophysics systems  
+### 🛰️ CosmoAI Lab
+Research initiative exploring:
+- AI for astrophysics simulation
+- Scientific computing systems
+- Space-data modeling
 
 ---
 
 <!-- ========================= -->
-<!--  COLLABORATOR SECTION    -->
+<!--  FEATURED COLLAB         -->
 <!-- ========================= -->
 
-## 🤝 Featured Talent / Collaborator
+## 🤝 Featured Collaborator
 
 ### 🚀 Pascal Oduor — AI Software Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-Pascal%20Oduor-0f2027?style=for-the-badge&logo=ai&logoColor=white" />
-</p>
+> “Engineering intelligence systems for healthcare and space exploration.”
 
-**Professional Summary**  
-AI Software Engineer with strong experience in backend systems, distributed architectures, and AI/ML development. Skilled in building scalable cloud-native applications using Python, Django, AWS, and modern machine learning frameworks.
+**Summary**  
+AI Software Engineer with strong experience in backend engineering, distributed systems, and machine learning. Works across Python, Django, AWS, and modern AI frameworks to build scalable, production-ready systems.
 
 ---
 
-### 🧠 Technical Skills
-
-Python • Django • Flask • React • AWS • TensorFlow • Docker • PostgreSQL • REST APIs
+### 🧠 Skills
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,aws,tensorflow,docker,git" />
+</p>
 
 ---
 
 ### 💼 Experience
 
-**🏥 M-TREAT Healthcare Platform**  
-- Backend architecture design (Django + PostgreSQL)  
-- Payment integration (M-Pesa APIs)  
-- Healthcare system scalability engineering  
+**🏥 M-TREAT Healthcare Platform**
+- Backend architecture (Django, PostgreSQL)
+- API development & system integration
+- Payment systems (M-Pesa integration)
 
-**🌐 Azur.org**  
-- Cloud application development  
-- Backend service optimization  
-- API engineering  
+**🌐 Azur.org**
+- Cloud-based system development
+- Scalable backend services
+- Deployment optimization
 
-**🎓 ALX Africa**  
-- Full-Stack Software Engineering Training  
-- System design, DevOps, and backend development  
+**🎓 ALX Africa**
+- Full-Stack Software Engineering Training
+- System design, DevOps, backend architecture
 
 ---
 
 ### 🎓 Education
 
 - 🎓 University of Nairobi — Astrophysics & Space Science  
-- 🎓 ALX Africa — Software Engineering Certification  
+- 🎓 ALX Africa — Software Engineering  
 
 ---
 
 ### 📫 Contact
 
-📧 Email: persiewailer697@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
+- 📧 Email: persiewailer697@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
 
 ---
 
 <!-- ========================= -->
-<!--  GITHUB PERFORMANCE      -->
+<!--  GITHUB STATS            -->
 <!-- ========================= -->
 
-## 📊 GitHub Performance & Analytics
+## 📊 Performance & GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&theme=tokyonight" />
@@ -152,38 +187,23 @@ Python • Django • Flask • React • AWS • TensorFlow • Docker • Post
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persie-O&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- ========================= -->
-<!--  ACTIVITY GRAPH          -->
-<!-- ========================= -->
-
-## 📈 Contribution Activity
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Persie-O&theme=react-dark" />
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--  REPOSITORIES            -->
+<!--  PINNED REPOSITORIES     -->
 <!-- ========================= -->
 
 ## 📌 Here are my popular repositories 👇
 
-<p align="center">
-  👉 Check pinned repositories below for:
-</p>
-
-- 🧠 AI & Machine Learning Systems  
-- 🏥 Healthcare Platforms  
-- 🛰️ Astrophysics Research Tools  
-- ⚙️ Full-Stack Applications  
-- ☁️ Cloud & DevOps Projects  
+👉 Check out my pinned repositories below to explore:
+- 🧠 AI/ML projects  
+- 🏥 Healthcare systems  
+- 🌌 Astrophysics simulations  
+- ⚙️ Backend architectures  
+- 📱 Full-stack applications  
 
 ---
 
