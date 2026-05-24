@@ -3,205 +3,204 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=220&section=header&text=Persie-O%20|%20AI%20Research%20%26%20Systems%20Engineer&fontSize=28&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Persie-O%20|%20Eng.%20Pascal%20Oduor&fontSize=32&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <b>Astrophysics • AI Engineering • Full-Stack Systems • Healthcare Innovation</b>
-</p>
+<h3 align="center">🛰️ Astrophysics • AI Engineering • Full-Stack Systems • Healthcare Innovation</h3>
 
 <p align="center">
-  Building intelligent systems at the intersection of space, data, and human health.
+  Building intelligent systems at the intersection of space science, AI, and healthcare.
 </p>
 
 ---
 
 <!-- ========================= -->
-<!--  PROFILE METRICS         -->
+<!--  ABOUT ME                -->
 <!-- ========================= -->
 
-## 📊 Performance Dashboard
+## 👨‍🚀 About Me
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Persie-O&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persie-O&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+- 🧠 AI Software Engineer & Full-Stack Developer  
+- 🛰️ Astrophysics & Space Science student (University of Nairobi)  
+- 🏥 Healthcare technology innovator (e-Doc / M-TREAT ecosystem)  
+- ⚙️ Passionate about distributed systems, ML, and scalable backend architecture  
+- 🚀 Founder of **CosmoAI Lab** (Research + Applied AI Systems)
 
 ---
 
 <!-- ========================= -->
-<!--  ABOUT                  -->
-<!-- ========================= -->
-
-## 🧠 System Overview
-
-- 🚀 Full-Stack Software Engineer (Distributed Systems Focus)
-- 🧬 AI/ML Developer (Healthcare + Scientific Computing)
-- 🛰️ Astrophysics & Space Science Researcher
-- 🏥 Healthcare Technology Builder (e-Doc / M-TREAT ecosystem)
-- ⚙️ Systems Design & Cloud Infrastructure Enthusiast
-
----
-
-<!-- ========================= -->
-<!--  TECH STACK              -->
+<!--  TECHNICAL STACK         -->
 <!-- ========================= -->
 
 ## 🧰 Technical Stack
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,rust,c" />
+Python • JavaScript • TypeScript • SQL • Rust • C
 </p>
+
+---
 
 ### ⚙️ Backend Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,fastapi" />
+Django • Flask • Node.js • REST APIs
 </p>
-
-- RESTful API Architecture
-- Microservices Design
-- Authentication & Security Systems
 
 ---
 
-### 🎨 Frontend Engineering
+### 🎨 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,reactnative" />
+React • React Native • Redux
 </p>
-
-- Responsive UI Systems
-- Mobile-first Applications
-- State Management Architectures
 
 ---
 
-### 🧠 AI / Machine Learning
+### 🤖 AI / Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+TensorFlow • Keras • Scikit-learn • Machine Learning Systems
 </p>
-
-- TensorFlow & Keras Deep Learning
-- scikit-learn Classical ML
-- Predictive Healthcare Models
-- Data-driven Systems Design
 
 ---
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+PostgreSQL • MySQL • MongoDB • Redis
 </p>
-
-- Relational & NoSQL Systems
-- High-performance caching (Redis)
-- Scalable database architecture
 
 ---
 
 ### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" />
+AWS • Docker • GitHub Actions • CI/CD • Linux • Git
 </p>
-
-- CI/CD Automation Pipelines
-- Cloud Infrastructure (AWS)
-- Containerization (Docker)
-- Linux-based Systems Engineering
 
 ---
 
 <!-- ========================= -->
-<!--  RESEARCH PROJECTS       -->
+<!--  FEATURED PROJECTS       -->
 <!-- ========================= -->
 
-## 🚧 Active Systems & Research
+## 🚧 Featured Projects
 
-### 🏥 e-Doc Healthcare AI Platform
-- Intelligent pharmacy ecosystem
-- AI-driven medical recommendations
-- Location-based healthcare access
-- Payment integration (M-Pesa systems)
+### 🏥 e-Doc Healthcare Platform
+AI-powered healthcare ecosystem:
+- Digital pharmacy system
+- AI health assistant
+- GPS pharmacy locator
+- Patient records & secure APIs
 
-### 🧬 M-TREAT System
-- Digital healthcare infrastructure for Africa
-- Telemedicine and patient management
-- Scalable backend architecture
+---
 
-### 🛰️ CosmoAI Lab (Research Direction)
+### 🌍 M-TREAT Health Infrastructure
+Telemedicine & healthcare accessibility platform across Africa:
+- Remote healthcare delivery
+- Payment integration (M-Pesa)
+- Clinical workflow systems
+
+---
+
+### 🛰️ CosmoAI Lab
+Research initiative exploring:
 - AI for astrophysics simulations
-- Data modeling for space systems
-- Scientific machine learning
+- Scientific data modeling
+- Intelligent healthcare systems
+- Applied machine learning research
 
 ---
 
 <!-- ========================= -->
-<!--  ACTIVITY METRICS        -->
-<!-- ========================= -->
-
-## 📈 Engineering Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Persie-O&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<!-- ========================= -->
-<!--  FEATURED COLLABORATOR   -->
+<!--  COLLABORATOR SECTION    -->
 <!-- ========================= -->
 
 ## 🤝 Featured Collaborator
 
 ### 🚀 Pascal Oduor — AI Software Engineer
 
-**System Role:** External AI Engineering Contributor
+**Role:** Collaborative AI & Backend Systems Engineer  
+
+**Summary:**  
+AI Software Engineer specializing in backend systems, distributed architecture, and machine learning applications. Strong experience in Python, Django, AWS, and scalable system design with a focus on healthcare and intelligent systems.
 
 ---
 
-**🧠 Profile Summary**  
-AI Software Engineer specializing in backend systems, distributed architectures, and applied machine learning. Experienced in Python, Django, AWS, and scalable healthcare systems design.
-
----
-
-### ⚙️ Technical Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,react,aws,tensorflow,docker,git,postgres" />
-</p>
-
----
-
-### 💼 Engineering Experience
-
-- 🏥 **M-TREAT Healthcare Systems**  
-  Backend architecture, API development, M-Pesa integration
-
-- 🌐 **Azur.org Systems**  
-  Cloud-based application engineering & optimization
-
-- 🎓 **ALX Africa Engineering Program**  
-  Full-stack systems engineering, DevOps, backend design
+### 🧠 Expertise
+- AI/ML model development
+- Backend architecture (Django, Flask)
+- Cloud deployment (AWS)
+- Healthcare system engineering
+- API design & distributed systems
 
 ---
 
 ### 🎓 Education
-
-- 🎓 University of Nairobi — Astrophysics & Space Science  
-- 🎓 ALX Africa — Software Engineering (Systems Track)
+- University of Nairobi — Astrophysics & Space Science  
+- ALX Africa — Software Engineering (Full Stack)
 
 ---
 
-### 📫 Contact Node
-
+### 📫 Contact
 - 📧 Email: persiewailer697@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/pascal-oduor  
+
+---
+
+<!-- ========================= -->
+<!--  GITHUB ANALYTICS        -->
+<!-- ========================= -->
+
+## 📊 Performance & GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Persie-O&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Persie-O&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Persie-O&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  ACTIVITY GRAPH          -->
+<!-- ========================= -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Persie-O&theme=tokyo-night" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  TROPHIES                -->
+<!-- ========================= -->
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Persie-O&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!--  POPULAR REPOSITORIES    -->
+<!-- ========================= -->
+
+## ⭐ Here Are My Popular Repositories
+
+🚀 A selection of impactful projects in AI, healthcare, and systems engineering:
+
+- 🏥 **e-Doc Healthcare Platform** — AI-powered digital pharmacy system  
+- 🌍 **M-TREAT Infrastructure** — Healthcare access & telemedicine platform  
+- 🛰️ **CosmoAI Lab** — AI + astrophysics research ecosystem  
+- ⚙️ **Distributed Systems Toolkit** — Scalable backend architecture experiments  
+- 🤖 **AI Health Diagnostics Engine** — Machine learning-based prediction system  
 
 ---
 
@@ -209,11 +208,12 @@ AI Software Engineer specializing in backend systems, distributed architectures,
 <!--  CONNECT                 -->
 <!-- ========================= -->
 
-## 🌐 System Connectivity
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Persie-O?label=Followers&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Persie-O&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/Persie-O">
+    <img src="https://img.shields.io/github/followers/Persie-O?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
@@ -223,5 +223,5 @@ AI Software Engineer specializing in backend systems, distributed architectures,
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,100:020024&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
