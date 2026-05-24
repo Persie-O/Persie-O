@@ -41,7 +41,7 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
 - 🧠 applied machine learning,
 - 🏥 digital health solutions.
 
-> ⚡ **Fun fact:** The first photo of a black hole (M87*) was released in 2019 – the same year I started coding. Coincidence? I think not.
+> ⚡ **Fun fact:** The first photo of a black hole (M87*) was released in 2019 – just 2 years later I started coding. Coincidence? I think not.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Persie-O&theme=tokyonight&no-frame=true&row=1&column=7" />
