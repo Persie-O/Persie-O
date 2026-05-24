@@ -132,31 +132,6 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
   </tr>
 </table>
 
----
-
-<!-- ========================= -->
-<!--  HIGHLIGHTS              -->
-<!-- ========================= -->
-
-## 🚀 Highlights
-
-<details>
-  <summary><strong>🛰️ Research & Science</strong></summary>
-  <br />
-  I’m deeply interested in astrophysics, computational thinking, and using data-driven tools to understand complex systems.
-</details>
-
-<details>
-  <summary><strong>🏥 Healthcare Innovation</strong></summary>
-  <br />
-  I build and support digital health products that improve access, workflow efficiency, and patient experience.
-</details>
-
-<details>
-  <summary><strong>🤖 AI Engineering</strong></summary>
-  <br />
-  I enjoy practical AI/ML work — from model experimentation to building intelligent features into real products.
-</details>
 
 ---
 
@@ -168,12 +143,6 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">e-Doc</h3>
-      <p align="center">
-        Digital healthcare platform for medication access, patient support, and health tech workflows.
-      </p>
-    </td>
     <td width="33%" valign="top">
       <h3 align="center">M-TREAT</h3>
       <p align="center">
