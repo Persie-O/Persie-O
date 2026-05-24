@@ -132,10 +132,6 @@ I enjoy designing systems that are clean, scalable, and useful in the real world
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,rust,c,django,flask,nodejs,react,reactnative,redux,tensorflow,aws,docker,linux,git,postgres,mysql,mongodb,redis" />
-</p>
-
 ---
 
 <!-- ========================= -->
